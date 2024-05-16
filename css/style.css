@@ -101,24 +101,11 @@ main{
     color: var(--Very-dark-cyan);
 }
 
-.content-1 button:hover{
-    background-color: var(--Bright-orange);
+.content-wraper button:hover{
+    background-color: transparent;
     color: var(--Very-light-gray);
     border: 2px solid var(--Very-light-gray);
 }
-
-.content-2 button:hover{
-    background-color: var(--Dark-cyan);
-    color: var(--Very-light-gray);
-    border: 2px solid var(--Very-light-gray);
-}
-
-.content-3 button:hover{
-    background-color: var(--Very-dark-cyan);
-    color: var(--Very-light-gray);
-    border: 2px solid var(--Very-light-gray);
-}
-
 
 @media screen and (max-width:740px){
 
